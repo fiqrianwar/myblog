@@ -1,0 +1,29 @@
+@font-face {
+    font-family: revista;
+    src: url(font/REVISTA.ttf);
+}
+
+@font-face {
+    font-family: pacifico;
+    src: url(font/Pacifico.ttf);
+}
+
+
+.flex-li-content{
+    display: flex;
+    justify-content: space-around;
+}
+.flex-li-content div{
+    margin: 12px;
+}
+.flex-li-content button{
+    background-color: unset;
+    border: unset;
+    color: navy;
+
+}
+.flex-li-content button:hover{
+    background-color:maroon;
+    color: white;
+
+}
