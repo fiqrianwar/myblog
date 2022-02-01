@@ -32,8 +32,6 @@
                     <div>
                         <h4 style="text-align: center; font-family: pacifico" >Use</h4>
                         <h4 style="font-family: pacifico">Your Mind</h4>
-                        <h4 style="text-align: center; font-family: pacifico" >Use</h4>
-                        <h4 style="font-family: pacifico">Your Mind</h4>
                     </div>
                 </div>
             </div>
